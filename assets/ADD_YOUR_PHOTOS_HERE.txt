@@ -1,0 +1,2 @@
+Add your photographs to this folder. Supported: jpg, jpeg, png, webp.
+The two built-in GIFs are part of the opening and will not be shown as memory pages.
